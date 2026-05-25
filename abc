@@ -1,0 +1,11 @@
+{
+  "owner": "abc",
+  "balance": 3000.0,
+  "transactions": [
+    {
+      "type": "deposit",
+      "amount": 2000.0,
+      "balance_after": 3000.0
+    }
+  ]
+}

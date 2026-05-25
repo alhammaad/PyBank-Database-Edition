@@ -1,0 +1,11 @@
+{
+  "owner": "sohel",
+  "balance": 500.0,
+  "transactions": [
+    {
+      "type": "withdrawal",
+      "amount": 500.0,
+      "balance_after": 500.0
+    }
+  ]
+}

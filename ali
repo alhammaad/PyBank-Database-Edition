@@ -1,0 +1,11 @@
+{
+  "owner": "ali",
+  "balance": 1500.0,
+  "transactions": [
+    {
+      "type": "deposit",
+      "amount": 500.0,
+      "balance_after": 1500.0
+    }
+  ]
+}
